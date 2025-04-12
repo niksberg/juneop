@@ -27,3 +27,4 @@ else
 {
     Console.WriteLine($"Number {searchNumber} not found in the array.");
 }
+Console.ReadLine();
